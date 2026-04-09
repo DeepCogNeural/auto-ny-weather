@@ -1,6 +1,6 @@
 # auto-ny-weather
 
-Two shell scripts for automating NYC weather checks and Claude CLI version cleanup on macOS, intended to run on a schedule via launchd.
+Two shell scripts for automating NYC weather checks and Claude CLI version cleanup on macOS, intended to run on a schedule via launchd.(help to refresh the 5hr Claude session limits)
 
 ## Scripts
 
